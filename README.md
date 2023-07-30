@@ -44,7 +44,7 @@
    POSTGRES_PASSWORD=postgres
    DB_HOST=db
    DB_PORT=5432
-   Если планируется использовать верификацию email hunter api:
+   # Если планируется использовать верификацию email hunter api:
    USE_HUNTER_URL=True
    HUNTER_URL=https://api.hunter.io/v2/email-verifier
    HUNTER_IO_API_KEY=API_KEY # Подставить свой api_key
